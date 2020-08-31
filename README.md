@@ -1,7 +1,7 @@
 # Ansible Role for SQLite
 
 [![Travis](https://img.shields.io/travis/com/alvistack/ansible-role-sqlite.svg)](https://travis-ci.com/alvistack/ansible-role-sqlite)
-[![GitHub release](https://img.shields.io/github/release/alvistack/ansible-role-sqlite.svg)](https://github.com/alvistack/ansible-role-sqlite)
+[![GitHub release](https://img.shields.io/github/release/alvistack/ansible-role-sqlite.svg)](https://github.com/alvistack/ansible-role-sqlite/releases)
 [![GitHub license](https://img.shields.io/github/license/alvistack/ansible-role-sqlite.svg)](https://github.com/alvistack/ansible-role-sqlite/blob/master/LICENSE)
 [![Ansible Role](https://img.shields.io/badge/galaxy-alvistack.sqlite-blue.svg)](https://galaxy.ansible.com/alvistack/sqlite)
 
