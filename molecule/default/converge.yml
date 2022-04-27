@@ -20,5 +20,5 @@
   tasks:
     - name: include role
       ansible.builtin.include_role:
-        name: sqlite
-      tags: sqlite
+        name: alvistack.sqlite
+      tags: alvistack.sqlite
